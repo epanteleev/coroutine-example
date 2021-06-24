@@ -1,2 +1,2 @@
 # coroutine-example
-Switch thread context implementation.
+Switch coroutine context implementation.
